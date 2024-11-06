@@ -21,7 +21,7 @@ jobs:
       - name: Set Up Git Configuration
         run: |
           git config user.email "cryptocrocks0@gmail.com"  # Set your email
-          git config user.name "CryptoCrocks"  # Set your username
+          git config user.name "aMaheshr"  # Set your username
 
       - name: Create/Update TIMESTAMP.txt
         run: |
